@@ -3,16 +3,17 @@
 Grand Theft Auto V for mobile gives players options to explore the award-winning worlds of Los Santos and Blaine County. The opportunity to experience games running at 60 frames per second.
 
 ### Please ensure you have at least 10 GB of free space before installing Grand Theft Auto V : Mobile
-
+### Markdown
+```markdown
 [DOWNLOAD NOW](https://github.com/KasPai/GTAVMobile/edit/master/index.md) 
-
+```
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -28,7 +29,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
